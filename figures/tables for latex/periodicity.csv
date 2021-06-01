@@ -1,0 +1,8 @@
+Timespan;Periodicity;Historically available?
+;;
+past 4 hours/1 hour;1 minute;No
+past 1 day;8 minutes;No
+past 7 days;hourly (1 hour);No
+1 day - 90 days;daily (1 day);Yes
+90 days - 5 years;weekly (1 week);Yes
+5 years+;monthly (1 month);Yes
