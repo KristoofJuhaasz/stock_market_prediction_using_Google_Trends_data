@@ -6,4 +6,4 @@ This is the fifth iteration of my research on how Google search volume could be 
 Please read my thesis/research paper for further insights and please respect the below principles:
 - I believe I managed to solve a few technical issues considering data download, standardization and other biases. Please feel free to use/change my scripts.
 - If you end up using my scripts, thoughts, findings, please consider referencing my work.
-- Feel free to contact me in case of any relevant questions, I spent a considerable time working with Google datasets.
+- Feel free to contact me in case of any relevant questions, I spent a considerable time working with Google datasets so I might be able to help.
